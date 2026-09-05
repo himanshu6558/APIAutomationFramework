@@ -3,14 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/HP/IdeaProjects/APIAutomationFramework">
         <classes>
-            <class name="org.example.tests.restfulBooker.sample.TestIntegrationSample">
-                <methods>
-                    <include name="testCreateBooking"/>
-                    <include name="testVerifyBookingId"/>
-                    <include name="testUpdateBookingId"/>
-                    <include name="testDeleteBookingId"/>
-                </methods>
-            </class>
+            <class name="org.example.tests.restfulBooker.crud.TestCreateBooking"/>
         </classes>
     </test>
 </suite>
