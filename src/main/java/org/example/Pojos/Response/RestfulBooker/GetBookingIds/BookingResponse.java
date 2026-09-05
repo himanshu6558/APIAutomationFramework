@@ -1,4 +1,4 @@
-package org.example.Pojos.Response.GetBookingIds;
+package org.example.Pojos.Response.RestfulBooker.GetBookingIds;
 
 import java.util.List;
 

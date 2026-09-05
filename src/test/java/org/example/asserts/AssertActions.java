@@ -1,4 +1,7 @@
-package org.example.Asserts;
+package org.example.asserts;
 
 public class AssertActions {
+
+
+
 }

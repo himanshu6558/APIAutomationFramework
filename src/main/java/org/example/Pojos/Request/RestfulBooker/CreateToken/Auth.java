@@ -1,4 +1,4 @@
-package org.example.Pojos.Request.CreateToken;
+package org.example.Pojos.Request.RestfulBooker.CreateToken;
 
 public class Auth {
 	private String password;

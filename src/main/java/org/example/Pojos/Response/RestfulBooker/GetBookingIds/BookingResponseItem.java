@@ -1,4 +1,4 @@
-package org.example.Pojos.Response.GetBookingIds;
+package org.example.Pojos.Response.RestfulBooker.GetBookingIds;
 
 public class BookingResponseItem{
 	private int bookingid;

@@ -1,4 +1,4 @@
-package org.example.Pojos.Request.Common;
+package org.example.Pojos.Request.RestfulBooker.Common;
 
 public class Booking {
 

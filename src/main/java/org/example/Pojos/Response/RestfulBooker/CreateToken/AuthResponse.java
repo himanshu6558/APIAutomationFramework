@@ -1,4 +1,4 @@
-package org.example.Pojos.Response.CreateToken;
+package org.example.Pojos.Response.RestfulBooker.CreateToken;
 
 public class AuthResponse{
 	private String token;

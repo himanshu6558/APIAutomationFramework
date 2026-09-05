@@ -1,4 +1,4 @@
-package org.example.Pojos.Response.Common;
+package org.example.Pojos.Response.RestfulBooker.Common;
 
 public class Booking{
 	private String firstname;
